@@ -38,9 +38,9 @@ There is a dump option that will output a binary file to test or to use anywhere
 ## Send to Game Boy Printer
 This script assumes your Arduino is connected on COM5 and serial is configured to 9600 baud rate.
 
-You will need a stripped game link cable connected to a Arduino flashed with the correct code to send images to the printer, I have used this code with success: https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer/tree/master/Research/Serial_Pocket_Printer_interface
+You will need a stripped game link cable connected to a Arduino flashed with the correct code to send images to the printer, I have used this code with success: https://github.com/Raphael-Boichot/PC-to-Game-Boy-Printer-interface/blob/main/Arduino_interface/Arduino_interface.ino
 
-You can also follow the instructions of that repository in the pinout section (https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer/blob/master/README.md#the-pinout) to connect your game boy printer to an Arduino, I do recommend that you have a multimeter handy to test your cable pairs and verify that everything is connected correctly to the Arduino.
+You can also follow the instructions of that repository in the pinout section (https://github.com/Raphael-Boichot/PC-to-Game-Boy-Printer-interface/tree/main?tab=readme-ov-file#pinout) to connect your game boy printer to an Arduino, I do recommend that you have a multimeter handy to test your cable pairs and verify that everything is connected correctly to the Arduino.
 
 ## Help
 
