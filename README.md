@@ -61,6 +61,6 @@ to get the help screen of the command.
 
 ## Acknowledgments
 
-* [The Arduino SD Game Boy Printer](https://github.com/Raphael-Boichot/The-Arduino-SD-Game-Boy-Printer) Great resource, got all the protocol information and the printer codes from this repository
+* [A simple PC to Game Boy Printer interface with an Arduino](https://github.com/Raphael-Boichot/PC-to-Game-Boy-Printer-interface) Great resource, got all the protocol information and the printer codes from this repository
 * [GBPrinter](https://github.com/octavifs/GBPrinter) I got the idea for this script from this repo as I at first tried to use this tool to print some images but sadly the code was outdated.
 * [Printing on the Game Boy Printer using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/) This was really helpful to learn how to parse the image into the really specific Game Boy tiles as I found out that the Arduino SD code was a little hard to understand.
